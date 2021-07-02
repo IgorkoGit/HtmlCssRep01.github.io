@@ -1,0 +1,51 @@
+ @media screen and (max-width: 980px) {
+	.wrapper{padding:6px 12px 0px;}
+	#topMenu a{font-size:21px;}
+	.product-wrapper {width:33.33%;}
+	
+ }
+
+ @media screen and (max-width: 768px) {
+	.wrapper{padding:7px;}
+	#topMenu a, #bottomMenu a{font-size:20px;}
+	.t-menu {width:25%;padding:8px;}
+	.b-menu {padding:10px;}
+	h1{font-size:28px;padding:8px}
+	h3{font-size:20px;padding:4px;}
+	h4{font-size:17px;padding:3px;}
+	p {font-size:14px;padding:2px;}
+	.fixedbut{font-size:16px;}
+
+ }
+ 
+ @media screen and (max-width: 640px) {
+	.wrapper{padding:3px 8px 0px;}
+	#topMenu a, #bottomMenu a{font-size:19px;}
+	.t-menu {width:33.33%;padding:7px;}
+	.product-wrapper {width:50%;}
+	#footer {padding:3px 12px 7px;
+
+ }
+
+ @media screen and (max-width: 568px) {
+	#contact, #bottomMenu{width:100%;}
+	
+ }
+
+ @media screen and (max-width: 480px) {
+	.wrapper{padding:3px;}
+	#logo{display:none;}
+	#topMenu{width:100%;padding:7px;}
+	.t-menu {width:50%;padding:5px;}
+	.b-menu {padding:7px;}
+	.fixedbut{display:none;}
+	
+ }
+
+ @media screen and (max-width: 320px) {
+	.product-wrapper {width:100%;}
+	h1{font-size:24px;padding:7px}
+	h3{font-size:18px;padding:3px;}
+	h4{font-size:15px;padding:2px;}
+	p {font-size:12px;}
+ }
